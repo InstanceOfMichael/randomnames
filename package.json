@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",
-    "@faker-js/faker": "^6.1.1",
+    "@faker-js/faker": "^6.1.2",
     "@nuxt/types": "^2.15.8",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/eslint-config-typescript": "^8.0.0",
